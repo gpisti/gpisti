@@ -24,7 +24,7 @@
 
 | Data Engineering | Cybersecurity | Device Config & Mgmt | Python Specialist |
 | :---: | :---: | :---: | :---: |
-| <a href="https://www.credly.com/badges/f397f327-65e4-4842-b42b-cd6542ddbb2f/public_url"><img src="ibm_kép_linkje.png" width="120" alt="IBM Data Engineering"></a> | <a href="https://www.credly.com/badges/4ffbfd9e-c5fc-4938-8c49-b87a75dd3e62/public_url"><img src="cyber_kép_linkje.png" width="120" alt="Cybersecurity"></a> | <a href="https://www.credly.com/badges/20e860af-747b-4994-8e47-00f08676fac5/public_url"><img src="device_kép_linkje.png" width="120" alt="Device Config"></a> | <a href="https://www.credly.com/badges/7e00ea26-d1ce-46a1-a08c-644fbe55076d/public_url"><img src="python_kép_linkje.png" width="120" alt="Python Specialist"></a> |
+| <a href="https://www.credly.com/badges/f397f327-65e4-4842-b42b-cd6542ddbb2f/public_url"><img src="data-engineering-essentials.png" width="120" alt="IBM Data Engineering"></a> | <a href="https://www.credly.com/badges/4ffbfd9e-c5fc-4938-8c49-b87a75dd3e62/public_url"><img src="it-specialist-cybersecurity.png" width="120" alt="Cybersecurity"></a> | <a href="https://www.credly.com/badges/20e860af-747b-4994-8e47-00f08676fac5/public_url"><img src="it-specialist-device-configuration-and-management.png" width="120" alt="Device Config"></a> | <a href="https://www.credly.com/badges/7e00ea26-d1ce-46a1-a08c-644fbe55076d/public_url"><img src="it-specialist-python.png" width="120" alt="Python Specialist"></a> |
 
 ## 🚀 Featured Projects
 
