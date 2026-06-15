@@ -3,7 +3,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m currently working as a **Data Engineer at CUBE xfbanalitics**, building and optimizing ETL pipelines.
+- 🔭 I’m currently working as a **Data Engineer at CUBE xfb Analitics**, building and optimizing ETL pipelines.
 - 🎓 I am finished my **BSc in Computer Science** at the **University of Debrecen**.
 - 🧠 I am starting my **MSc in Artificial Intelligence** this September.
 - 💼 Previously, I worked as a **Python Developer** at **weCan Technology**, where I built vectorization pipelines for semantic search and complex data scrapers.
