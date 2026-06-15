@@ -28,6 +28,12 @@
 
 ## 🚀 Featured Projects
 
+### 🎓 [WorkLense: Automated Job Market Analytics System](https://github.com/gpisti/worklense)
+**My Computer Science BSc Thesis Project:** An automated job advertisement analysis system utilizing data mining and AI. 
+- **Architecture:** An end-to-end ETL pipeline orchestrating data collection from multiple APIs (Adzuna, FindWork, Arbeitnow) using **Apache Airflow** in a **Docker** environment.
+- **AI/NLP Layer:** Implements a local **Ollama LLM** and Sentence-Transformers for semantic embeddings to extract structured metadata (skills, technologies, seniority) and normalize company names from unstructured text.
+- **Data & Visualization:** Uses a dual-layer **PostgreSQL** database (raw JSONB and normalized relational models) and visualizes the insights on an interactive **Streamlit** dashboard with Plotly and NetworkX.
+
 ### 🚦 [BKK Traffic Tracker](https://github.com/gpisti/bkk-traffic-tracker)
 A real-time data pipeline built with **Apache Kafka and PostgreSQL** that streams 10,000+ daily transit data points, visualized on an interactive Streamlit dashboard.
 
